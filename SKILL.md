@@ -4,7 +4,8 @@ description: Take mundane observations and follow their internal logic to increa
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.2
+  version: 1.0.3323
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurd-escalation
 - absurdist
